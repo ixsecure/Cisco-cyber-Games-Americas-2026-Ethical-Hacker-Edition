@@ -1,98 +1,104 @@
-# 🛡️ Cisco Cyber Games Americas 2026 — Ethical Hacker Edition
+# Cisco Cyber Games Americas 2026 — Ethical Hacker Edition
 
-[![Cisco NetAcad](https://img.shields.io/badge/Cisco-NetAcad-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.netacad.com)
-[![Compétition](https://img.shields.io/badge/Compétition-Cyber%20Games%202026-00BCEB?style=for-the-badge)](https://cybergames.netacad.com)
-[![Statut](https://img.shields.io/badge/Statut-En%20cours%20🔥-success?style=for-the-badge)]()
+![Cisco NetAcad](https://img.shields.io/badge/Cisco-NetAcad-1BA0D7?style=flat&logo=cisco&logoColor=white)
+![Competition](https://img.shields.io/badge/Competition-Cyber%20Games%202026-00BCEB?style=flat)
+![Region](https://img.shields.io/badge/Region-Americas-orange?style=flat)
+![Format](https://img.shields.io/badge/Format-Ethical%20Hacker-red?style=flat)
+![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat)
 
----
-
-## 🎯 À propos
-
-Ce dépôt regroupe mes ressources, notes, write-ups et solutions dans le cadre de ma participation au **Cisco Cyber Games Americas 2026 — Ethical Hacker Edition**, organisé par la [Cisco Networking Academy (NetAcad)](https://www.netacad.com).
-
-> *"Think like an attacker, act like a defender."*
+> Official participation repository — Cisco Networking Academy Cyber Games Americas 2026.
+> Write-ups, notes, tools and techniques used during the competition.
 
 ---
 
-## 🏆 La Compétition
+## About the Competition
 
-| Détail | Info |
+The **Cisco Cyber Games** is an international cybersecurity competition organized by Cisco Networking Academy. The Ethical Hacker Edition covers offensive security skills including network reconnaissance, web exploitation, cryptography, and CTF challenges.
+
+| Detail | Info |
 |---|---|
-| 🏢 Organisateur | Cisco Networking Academy |
-| 🌎 Région | Americas |
-| 📅 Édition | 2026 |
-| 🎭 Format | Ethical Hacker |
-| 🔗 Plateforme | NetAcad |
+| Organizer | Cisco Networking Academy (NetAcad) |
+| Region | Americas |
+| Edition | 2026 |
+| Format | Ethical Hacker |
+| Participant | Richmond Konan (@ixsecure) |
+| Country | Cote d'Ivoire |
 
 ---
 
-## 📁 Structure du Dépôt
+## Skills Covered
 
 ```
-📦 cisco-cyber-games-2026
- ┣ 📂 write-ups/        # Solutions et explications des challenges
- ┣ 📂 notes/            # Notes de cours et concepts clés
- ┣ 📂 tools/            # Scripts et outils utilisés
- ┣ 📂 recon/            # Techniques de reconnaissance
- ┗ 📄 README.md
+- Reconnaissance & OSINT
+- Network security (OSI / TCP-IP model)
+- Cryptography & encoding
+- Web vulnerability exploitation
+- Ethical hacking & penetration testing
+- CTF (Capture The Flag) methodology
 ```
 
 ---
 
-## 🧠 Compétences Couvertes
+## Write-ups
 
-- 🔍 **Reconnaissance & OSINT**
-- 🌐 **Sécurité des réseaux (modèle OSI / TCP-IP)**
-- 🔐 **Cryptographie**
-- 💻 **Exploitation de vulnérabilités web**
-- 🛠️ **Ethical Hacking & Penetration Testing**
-- 🧩 **CTF (Capture The Flag)**
+> Write-ups are added progressively throughout the competition.
 
----
-
-## 📝 Write-ups
-
-> Les write-ups sont ajoutés progressivement au fil de la compétition.
-
-| Challenge | Catégorie | Difficulté | Statut |
+| Challenge | Category | Difficulty | Status |
 |---|---|---|---|
-| — | — | — | 🔄 En attente |
+| Coming soon... | — | — | In progress |
 
 ---
 
-## 🛠️ Outils & Technologies
+## Tools & Technologies
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4EAA25?style=flat)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-darkblue?style=flat)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
 ---
 
-## ⚠️ Avertissement Éthique
+## Repository Structure
 
-> Toutes les techniques présentées dans ce dépôt sont utilisées **exclusivement dans un cadre légal et éducatif**, dans le respect des règles de la compétition Cisco Cyber Games.
+```
+Cisco-cyber-Games-Americas-2026/
+├── write-ups/        # Challenge solutions and explanations
+├── notes/            # Key concepts and course notes
+├── tools/            # Scripts and tools used
+├── recon/            # Reconnaissance techniques
+└── README.md         # This file
+```
+
+---
+
+## Why this competition matters
+
+The Cisco Cyber Games is a recognized international competition that validates real offensive security skills. Participating demonstrates the ability to apply theoretical knowledge in a competitive, time-pressured environment — a key quality for any penetration tester or security analyst.
+
+---
+
+## Ethical Notice
+
+> All techniques presented in this repository are used exclusively in a legal and educational context, following the Cisco Cyber Games competition rules.
 >
-> ❌ Ne jamais utiliser ces connaissances sans autorisation explicite.  
-> ✅ L'ethical hacking, c'est protéger — pas nuire.
+> Never apply these techniques without explicit authorization.
+> Ethical hacking means protecting systems — not harming them.
 
 ---
 
-## 👤 Auteur
+## Author
 
-**Richmond delmas konan**
-- 🌍 Localisation : Côte d'Ivoire 🇨🇮
-- 🎓 Plateforme : Cisco NetAcad
-  
----
+**Richmond Konan** — Junior Penetration Tester | Offensive Security | Cote d'Ivoire
 
-## 📄 Licence
-
-Ce dépôt est à but **éducatif uniquement**. Les contenus partagés respectent les règles de la compétition.
+- LinkedIn: https://linkedin.com/in/richmonddelmas
+- GitHub: https://github.com/ixsecure
+- Portfolio: https://beacons.ai/richmonddelmas
+- Email: delmasrichmond@gmail.com
 
 ---
 
-<p align="center">
-  Made with ❤️ and ☕ | Cisco Cyber Games Americas 2026
-</p>
+## Topics
+
+`ctf` `ethical-hacking` `cisco` `netacad` `penetration-testing` `cybersecurity` `cyber-games` `offensive-security` `writeups` `kali-linux`
